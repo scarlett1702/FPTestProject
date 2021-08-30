@@ -1,2 +1,2 @@
 # FPTestProject
-mvvm dagger-hilt databinding rxjava
+mvvm dagger-hilt databinding rxjava glide
